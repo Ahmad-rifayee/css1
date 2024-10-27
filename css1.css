@@ -1,0 +1,13 @@
+.blue-box{
+    background-color:darkblue;
+    color: white;
+   
+}
+.special{
+   font-weight: lighter;
+   color: rgb(255, 0, 0);
+}
+.cc{
+    text-align: center;
+    font-weight: lighter;
+}
